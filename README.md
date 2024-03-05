@@ -1,0 +1,2 @@
+# practica
+para aprender programacion
